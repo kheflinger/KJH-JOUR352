@@ -25,6 +25,10 @@ font-weight: 400;
   margin: 0 auto;
 }
 
+.top-photo img{
+  text-align: center;
+}
+
 #degrees {
   margin-top: 5px;
   margin-left: 0px;
