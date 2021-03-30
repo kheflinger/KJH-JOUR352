@@ -22,7 +22,11 @@ p {
 }
 
 .top-photo {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height= 220px;
 }
 
 .caption-1 {
@@ -47,7 +51,11 @@ border-left: 4px solid #ccc;
 }
 
 .photo-2 {
-  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height= 50px;
+  width= 70px;
 }
 
 .caption-2 {
