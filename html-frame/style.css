@@ -63,7 +63,13 @@ p {
 
 .footer {
   background-color: #C9081E;
+  text-align: center;
   margin-top: 10px;
   height: 60px;
   padding-bottom: 20px;
+}
+
+.banner {
+  width: 1250px;
+  height: 150px;
 }

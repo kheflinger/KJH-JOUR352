@@ -6,6 +6,7 @@
 }
 
 .byline {
+  padding-top: 10px;
   font-size: 1em;
   text-transform: uppercase;
   font-family:'Montserrat', sans-serif;
@@ -40,8 +41,23 @@ p {
 }
 
 .footer {
-  background-color: #000000;
+  background-color: #990C1E;
   margin-top: 10px;
   height: 60px;
   padding-bottom: 20px;
+  text-align: center;
+  font-size: 15px;
+  color: #FFFFFF
+}
+
+h1 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #101D30;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+#content {
+  padding-left: 10px;
 }
