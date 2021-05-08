@@ -1,0 +1,100 @@
+#content {
+  margin: 0 auto;
+  width: 1200px;
+  padding-bottom: 15px;
+}
+
+.navbar-div {
+  text-align: right;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 20px;
+}
+
+h4 {
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 30px;
+}
+
+.map {
+  text-align: center;
+}
+
+.ode {
+  font-style: italic;
+}
+
+blockquote {
+font: 24px/32px 'Raleway', sans-serif;
+font-style: italic;
+margin-top: 35px;
+margin-bottom: 35px;
+color: #b30000;
+margin-left: 50px;
+padding-left: 40px;
+}
+
+.BW {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.caption-1 {
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.caption-2 {
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.caption-3 {
+  font-size: 12px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.piechart {
+  padding-left: 30px;
+}
+
+.walkway {
+  padding-right: 30px;
+}
+
+.beach {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.golden {
+  text-align: center;
+}
+
+.caption-4 {
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.footer {
+  background-color: #b30000;
+  margin-top: 15px;
+  height: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 15px;
+  color: black;
+}
